@@ -1,0 +1,18 @@
+total 16
+-rw-rw-r-- 1 ubuntu ubuntu  27 Jul  3 20:15 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 372 Jul  3 20:15 disk_free.log
+-rw-rw-r-- 1 ubuntu ubuntu   7 Jul  3 20:16 disk_usage.log
+-rw-rw-r-- 1 ubuntu ubuntu 351 Jul  3 20:47 files_list.log
+-rw-rw-r-- 1 ubuntu ubuntu   0 Jul  3 20:50 test_Mixed_Reset
+total 32
+drwxrwxr-x 3 ubuntu ubuntu 4096 Jul  3 20:15 ..
+-rw-rw-r-- 1 ubuntu ubuntu   27 Jul  3 20:15 README.md
+-rw-rw-r-- 1 ubuntu ubuntu  372 Jul  3 20:15 disk_free.log
+-rw-rw-r-- 1 ubuntu ubuntu    7 Jul  3 20:16 disk_usage.log
+-rw-rw-r-- 1 ubuntu ubuntu  351 Jul  3 20:47 files_list.log
+drwxrwxr-x 3 ubuntu ubuntu 4096 Jul  3 20:50 .
+-rw-rw-r-- 1 ubuntu ubuntu  300 Jul  3 20:50 test_Mixed_Reset
+drwxrwxr-x 8 ubuntu ubuntu 4096 Jul  3 20:53 .git
+----------------------------------------------------------
+Wed Jul  3 20:59:40 UTC 2024
+#######################################################################################################################
